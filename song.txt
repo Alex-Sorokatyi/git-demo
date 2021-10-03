@@ -2,13 +2,6 @@ sword and spear
 wall of shields
 standing strong
 on this their chosen battlesield
-<<<<<<< HEAD
 
-
-Form the lines
-shiald by shield
-Side by side
-We`re marching into destiny
---------------------------------------
-=======
->>>>>>> parent of 14c4e1f (finish second part)
+deleted words for commit1 branch
+this one is for commit21
